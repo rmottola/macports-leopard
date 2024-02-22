@@ -1,3 +1,7 @@
+# the portindex itself not commited
+PortIndex
+PortIndex.quick
+
 # Filenames that should be ignored wherever they appear
 *~
 *.rej
